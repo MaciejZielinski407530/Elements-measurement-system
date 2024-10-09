@@ -11,3 +11,7 @@ Projekt charakteryzuje sie uniwersalnością, ponieważ może zostać wykorzysta
 # Zasada działania:
 Cebulki kwiatowe przesypywane są przez specjalny element, w którym zamontowana została fotokomórka. Urządzenie zlicza liczbe przerwań fotokomórki co odpowiada ilosci cebulek kwiatowych.
 Wynik wyświetlany jest na bieżąco na wyświetlaczu urządzenia.
+
+# PCB i obudowa
+![alt text](https://github.com/MaciejZielinski407530/Elements-measurement-system/blob/main/photo/pcb.png)
+![alt text](https://github.com/MaciejZielinski407530/Elements-measurement-system/blob/main/photo/Case3D.png)
